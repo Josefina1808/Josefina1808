@@ -6,7 +6,7 @@ A los 17 años luego de una charla sobre el mundo de la programación comencé a
 Luego en enero 2021 decicí comenzar la carrera de Desarrollo Web Full Stack en CoderHouse. Actualmente terminé la carrera de Desarrollo Front End y continúo con Desarrollo Back End. Además estoy cursando el segundo tramo de Actuario en Economía en la UBA (Universidad de Buenos Aires).
 Por otro lado, me gusta la música y toco el piano desde muy pequeña. 🎹
 
-When I was 17 after participating at a programming conference, I made my first steps learning programmaing principles on differents online platforms. Then at January 2021 I decided to study Full Stack Web Developer at CoderHouse. I already finished FrontEnd Developer and I continue studying backEnd. Also, I study actuary science at the University of Buenos Aires (UBA) I am now at the second year of it. Apart from that I love music and I play the piano since I'm little. 🎹 
+When I was 17 years old after participating at a programming conference, I made my first steps learning programmaing principles on differents online platforms. Then at January 2021 I decided to study Full Stack Web Developer at CoderHouse. I already finished FrontEnd Developer and I continue studying backEnd. Also, I study actuary science at the University of Buenos Aires (UBA) I am now at the second year of it. Apart from that I love music and I play the piano since I'm little. 🎹 
 
 ### </> Herramientas/Tools:
 [![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=e34f26&labelColor=101010)](#)
